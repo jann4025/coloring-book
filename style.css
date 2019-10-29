@@ -1,0 +1,22 @@
+#svg-container {
+    position: absolute;
+    top: 55%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+#colors {
+    max-width: 100%;
+}
+
+
+
+.reset {
+    margin: 1.5em;
+    padding: .5em 1em;
+    font-family: sans-serif;
+    width: max-content;
+    background: #242a2d;
+    color: whitesmoke;
+    border-radius:.3em;
+}
